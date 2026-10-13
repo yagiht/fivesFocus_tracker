@@ -6,6 +6,8 @@ If a phone appears in frame, a red box appears, the status switches from FOCUSED
 
 ## Demo
 
+terminal log: <img width="600" height="425" alt="Screenshot 2026-10-12 at 11 33 11 PM" src="https://github.com/user-attachments/assets/79efee8b-72f6-4277-8ce7-2488d59b80ba" />
+
 ![Phone detected](demo/phone_detected.png)
 
 Video: (https://drive.google.com/file/d/1IrrZGsyGfRFgbjjuhSdOJfg7gTawNXkB/view?usp=drive_link)
