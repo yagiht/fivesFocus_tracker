@@ -1,4 +1,5 @@
-# FIVES Focus Tracker (this readme was partially written by claude because time is of the essence:P)
+# FIVES Focus Tracker 
+
 
 A webcam focus tracker that notices when you pick up your phone during a study session.
 
